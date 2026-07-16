@@ -24,3 +24,4 @@ print(f"Normal Case: {calculate_grade(scores)}")
 
 # ขั้นที่ 4: ลองกรณีที่ AI มักลืม (ลิสต์ว่าง)
 # print(calculate_grade([])) # ถ้าเอาคอมเมนต์ออก จะเจอ Error: division by zero
+
